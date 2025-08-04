@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"shartflix-app","appId":"1:146578219735:android:a8cc490eaf27c9ad2f4692","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"shartflix-app","configurations":{"android":"1:146578219735:android:a8cc490eaf27c9ad2f4692","ios":"1:146578219735:ios:3d1bc1953fdf085b2f4692"}}}}}}

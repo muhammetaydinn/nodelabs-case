@@ -1,0 +1,111 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Shartflix",
+  "login": {
+    "title": "Merhabalar",
+    "subtitle": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+    "emailHint": "E-Posta",
+    "passwordHint": "Şifre",
+    "forgotPassword": "Şifremi unuttum",
+    "loginButton": "Giriş Yap",
+    "loggingIn": "Giriş yapılıyor...",
+    "loginSuccess": "Giriş başarılı!",
+    "loginError": "Hata: {errorMessage}",
+    "@loginError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    }
+  },
+  "register": {
+    "title": "Hoşgeldiniz",
+    "subtitle": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+    "nameHint": "Ad Soyad",
+    "emailHint": "E-Posta",
+    "passwordHint": "Şifre",
+    "confirmPasswordHint": "Şifre Tekrar",
+    "registerButton": "Kayıt Ol",
+    "registering": "Kayıt yapılıyor...",
+    "registerSuccess": "Kayıt başarılı!",
+    "registerError": "Hata: {errorMessage}",
+    "@registerError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    },
+    "termsText": "Kayıt olarak",
+    "termsLink": "Kullanım Şartları",
+    "andText": "ve",
+    "privacyLink": "Gizlilik Politikası",
+    "alreadyHaveAccount": "Zaten bir hesabın var mı?",
+    "loginHere": "Giriş Yap!",
+    "termsAgreement": "Kullanıcı sözleşmesini",
+    "readAndAccept": "okudum ve kabul ediyorum",
+    "termsContinue": "Bu sözleşmeyi okuyarak devam ediniz lütfen."
+  },
+  "profile": {
+    "title": "Profil Detayı",
+    "limitedOffer": "Sınırlı Teklif",
+    "updatePhotoTitle": "Profil Fotoğrafını Güncelle",
+    "photoUpdatedSuccess": "Profil fotoğrafı başarıyla güncellendi!",
+    "photoUpdateError": "Hata: {errorMessage}",
+    "@photoUpdateError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    },
+    "selectPhoto": "Fotoğraf Seç",
+    "takePhoto": "Fotoğraf Çek",
+    "chooseFromGallery": "Galeriden Seç",
+    "uploadTitle": "Fotoğraflarınızı Yükleyin",
+    "uploadSubtitle": "Profil fotoğrafınızı seçin veya\nyeni bir fotoğraf çekin.",
+    "changePhoto": "Fotoğrafı Değiştir",
+    "uploading": "Yükleniyor...",
+    "update": "Güncelleştir",
+    "continue": "Devam Et",
+    "loadingFailed": "Yüklenemedi",
+    "user": "Kullanıcı",
+    "id": "ID"
+  },
+  "limitedOffer": {
+    "title": "Sınırlı Teklif",
+    "subtitle": "Jeton paketin'ni seçerek bonus kazanın ve yeni bölümlerin kilidini açın!",
+    "selectPackageText": "Kilidi açmak için bir jeton paketi seçin",
+    "viewAllTokens": "Tüm Jetonları Gör"
+  },
+  "home": {
+    "home": "Anasayfa",
+    "profile": "Profil"
+  },
+  "errors": {
+    "fileTooLarge": "Dosya boyutu çok büyük. Maksimum 4MB olmalıdır.",
+    "generalError": "Bir hata oluştu: {error}",
+    "@generalError": {
+      "placeholders": {
+        "error": {
+          "type": "String"
+        }
+      }
+    },
+    "tryAgain": "Tekrar Dene"
+  },
+  "navigation": {
+    "back": "Geri"
+  },
+  "favorites": {
+    "title": "Beğendiğim Filmler",
+    "emptyMessage": "Henüz beğendiğiniz film bulunmuyor",
+    "errorMessage": "Bir hata oluştu"
+  },
+
+  "movie": {
+    "readMore": "Daha Fazlası",
+    "readLess": "Daha Azı"
+  }
+}

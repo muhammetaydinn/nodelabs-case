@@ -1,0 +1,111 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shartflix",
+  "login": {
+    "title": "Hello",
+    "subtitle": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+    "emailHint": "Email",
+    "passwordHint": "Password",
+    "forgotPassword": "Forgot Password",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "loginSuccess": "Login successful!",
+    "loginError": "Error: {errorMessage}",
+    "@loginError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    }
+  },
+  "register": {
+    "title": "Welcome",
+    "subtitle": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+    "nameHint": "Full Name",
+    "emailHint": "Email",
+    "passwordHint": "Password",
+    "confirmPasswordHint": "Confirm Password",
+    "registerButton": "Register",
+    "registering": "Registering...",
+    "registerSuccess": "Registration successful!",
+    "registerError": "Error: {errorMessage}",
+    "@registerError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    },
+    "termsText": "By registering, you agree to our",
+    "termsLink": "Terms of Service",
+    "andText": "and",
+    "privacyLink": "Privacy Policy",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginHere": "Login!",
+    "termsAgreement": "User agreement",
+    "readAndAccept": "I have read and accept",
+    "termsContinue": "Please read this agreement to continue."
+  },
+  "profile": {
+    "title": "Profile Details",
+    "limitedOffer": "Limited Offer",
+    "updatePhotoTitle": "Update Profile Photo",
+    "photoUpdatedSuccess": "Profile photo updated successfully!",
+    "photoUpdateError": "Error: {errorMessage}",
+    "@photoUpdateError": {
+      "placeholders": {
+        "errorMessage": {
+          "type": "String"
+        }
+      }
+    },
+    "selectPhoto": "Select Photo",
+    "takePhoto": "Take Photo",
+    "chooseFromGallery": "Choose from Gallery",
+    "uploadTitle": "Upload Your Photos",
+    "uploadSubtitle": "Select your profile photo or\ntake a new photo.",
+    "changePhoto": "Change Photo",
+    "uploading": "Uploading...",
+    "update": "Update",
+    "continue": "Continue",
+    "loadingFailed": "Loading Failed",
+    "user": "User",
+    "id": "ID"
+  },
+  "limitedOffer": {
+    "title": "Limited Offer",
+    "subtitle": "Select a token package to earn bonuses and unlock new episodes!",
+    "selectPackageText": "Select a token package to unlock",
+    "viewAllTokens": "View All Tokens"
+  },
+  "home": {
+    "home": "Home",
+    "profile": "Profile"
+  },
+  "errors": {
+    "fileTooLarge": "File size is too large. Maximum 4MB allowed.",
+    "generalError": "An error occurred: {error}",
+    "@generalError": {
+      "placeholders": {
+        "error": {
+          "type": "String"
+        }
+      }
+    },
+    "tryAgain": "Try Again"
+  },
+  "navigation": {
+    "back": "Back"
+  },
+  "favorites": {
+    "title": "My Favorite Movies",
+    "emptyMessage": "You don't have any favorite movies yet",
+    "errorMessage": "An error occurred"
+  },
+
+  "movie": {
+    "readMore": "Read More",
+    "readLess": "Read Less"
+  }
+}
