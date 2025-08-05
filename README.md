@@ -1,6 +1,6 @@
 # Shartflix
 
-A modern Flutter application for streaming movies with authentication, user profiles, and limited offer features.
+A modern Flutter application for browsing and discovering movies with authentication, user profiles, and limited offer features.
 
 ## 📱 Demo & Downloads
 
@@ -16,7 +16,7 @@ Watch the app demo video showing all features and user interface: [Demo Video](h
 
 ### Core Features
 
-- **Movie Streaming**: Browse and watch movies with a Netflix-like interface
+- **Movie Discovery**: Browse and explore movies with a Netflix-like interface (image-based browsing)
 - **User Authentication**: Secure login and registration system
 - **Profile Management**: Update profile photos and manage user information
 - **Favorites System**: Save and manage favorite movies
@@ -33,4 +33,4 @@ Watch the app demo video showing all features and user interface: [Demo Video](h
 
 ---
 
-**Shartflix** - Modern movie streaming experience with premium features and user engagement.
+**Shartflix** - Modern movie discovery experience with premium features and user engagement.
